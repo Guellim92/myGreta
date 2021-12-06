@@ -4,7 +4,8 @@
 ##Helloworld.Python ##
 str = "! Hello World!"
 
-str= "! Bonjour Monde !"
+str= "! toto !"
+
 
 print ("\n"+str)
 ##
